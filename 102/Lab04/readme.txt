@@ -1,0 +1,1 @@
+Because lab assignment is a bit unclear, I write three tester, third one gets items, employees and customers from terminal
